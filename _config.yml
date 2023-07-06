@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/image1.jpeg"
   bio              : "통계학과 대학원생"
   location         : "Seoul, Korea"
-  email            : "yujin.alex.p@gmail.com"
+  email            : "yujin.alex.p@google.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:yujin.alex.p@gmail.com"
+      # url: "mailto:yujin.alex.p@google.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
