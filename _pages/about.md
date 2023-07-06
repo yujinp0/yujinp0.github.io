@@ -5,5 +5,4 @@ permalink: /About/
 author_profile: true
 sidebar_main: true
 ---
-###
-박유진입니다.
+### 박유진입니다.
