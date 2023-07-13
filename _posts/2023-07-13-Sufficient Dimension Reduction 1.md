@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Sufficient Dimension Reduction1"
+typora-root-url: ../
+categories: SDR
+published: true
+tag: [SDR, python]
+toc: true
+author_profile: false
+sidebar: 
+nav: "docs"
+published: false
+---
+
  $$Ax=b$$
 
 
