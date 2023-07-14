@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "YOLO"
+typora-root-url: ../
+categories: study
+published: true
+tag: [Vision, python, study]
+toc: true
+author_profile: false
+sidebar: 
+nav: "docs"
+---
+# [논문 리뷰 스터디 3] Vision
+
+오늘 리뷰할 논문은 Vision 분야의 "You Only Look Once: Unified, Real-Time Object Detection"이다.
+(논문 출처: https://arxiv.org/pdf/1506.02640.pdf)
